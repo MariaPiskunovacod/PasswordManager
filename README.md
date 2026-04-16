@@ -3,7 +3,7 @@
 ## Установка
 
 ```bash
-git clone https://github.com/ТВОЙ_НИК/passkeeper.git
+git clone https://github.com/MariaPiskunovacod/passkeeper.git
 cd passkeeper
 pip install -r requirements.txt
 python main.py
